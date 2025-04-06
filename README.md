@@ -26,7 +26,7 @@ The pipeline will save a record of the progress, allowing you to stop between st
     Windows (Repo Untested)
     ```
     python -m venv venv
-    venvScriptsactivate
+    venv\Scripts\activate
     ```
 
 
