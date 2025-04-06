@@ -1,0 +1,8 @@
+numpy
+PyMuPDF
+Pillow
+pytesseract
+aiofiles
+tqdm
+psutil
+tesserocr
